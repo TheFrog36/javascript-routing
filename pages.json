@@ -1,0 +1,32 @@
+[
+    {
+        "name": "home", 
+        "id": "home",
+        "html":  "<h1>Home</h1> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ducimus tenetur magni neque quis ullam iste excepturi dolores possimus beatae minima consectetur earum harum error, corrupti assumenda aliquid illo totam?</p>"
+    },
+    {
+        "name": "about", 
+        "id": "about",
+        "html":  "<h1>About</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dicta pariatur, iure nihil et magni atque magnam unde commodi optio minima eligendi perspiciatis labore, beatae odio velit? Rerum expedita quos laborum.</p>"
+    },
+    {
+        "name": "contacts", 
+        "id": "contacts",
+        "html":  "<h1>Gallery</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate aspernatur labore repudiandae obcaecati culpa eveniet veniam doloremque eligendi exercitationem optio alias, enim saepe rerum, commodi nemo earum, animi quos possimus.</p>"
+    },
+    {
+        "name": "pippo", 
+        "id": "pippo",
+        "html":  "<h1>Pippo</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate aspernatur labore repudiandae obcaecati culpa eveniet veniam doloremque eligendi exercitationem optio alias, enim saepe rerum, commodi nemo earum, animi quos possimus.</p>"
+    },
+    {
+        "name": "pluto", 
+        "id": "pluto",
+        "html":  "<h1>Pluto</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate aspernatur labore repudiandae obcaecati culpa eveniet veniam doloremque eligendi exercitationem optio alias, enim saepe rerum, commodi nemo earum, animi quos possimus.</p>"
+    },
+    {
+        "name": "paperino", 
+        "id": "paperino",
+        "html":  "<h1>Paperino</h1><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate aspernatur labore repudiandae obcaecati culpa eveniet veniam doloremque eligendi exercitationem optio alias, enim saepe rerum, commodi nemo earum, animi quos possimus.</p>"
+    }
+]
